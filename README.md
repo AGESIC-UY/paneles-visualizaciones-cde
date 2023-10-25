@@ -53,7 +53,7 @@ Se contienen los archivos necesarios para la creación de visualizadores interac
 
 ## Prerrequisitos
 
-//Version de Pentaho Server
+- Pentaho Server 7 o superior
 
 ## Instalación del tema
 
@@ -76,7 +76,7 @@ Todo nuevo Dashboard para una entidad del Gobierno Uruguayo debe realizarse apli
 
 ![](/Theme_CDE/3.png)
 
-4. Seleccionaremos el tema y haremoS clic en **Ok**
+4. Seleccionaremos el tema y haremos clic en **Ok**
 
 ![](/Theme_CDE/4.png)
 
